@@ -1,0 +1,13 @@
+{
+  "maj": "2026-10-09T13:05:00+02:00",
+  "net": 0,
+  "encaisse": 0,
+  "couts": 0,
+  "capital": 0,
+  "unites_actives": 1,
+  "demandes_en_attente": 1,
+  "alerte": "Compte ComeUp à créer",
+  "unites": [
+    { "nom": "ComeUp", "phase": "Exploration", "jour": 1, "jour_max": 4, "net": 0 }
+  ]
+}
